@@ -1,3 +1,6 @@
 This is an example of a story
 
-"Once upon a time"
+"Once upon a time, there is a girl who get an apple from an old grandma.
+Then the poor girl eventually get sick.
+"
+
